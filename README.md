@@ -5,9 +5,21 @@
 <a href="https://www.x.com/_PowerLee_">
   <img align="left" alt="PowerLee's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="www.linkedin.com/in/pengwang-li-8564a5378">
+  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100094803286405">
+  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://discord.com">
+  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
+
 <!-- <a href="mailto:sunk1ng@foxmail.com">
   <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
+
 
 <br />
 <br />
