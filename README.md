@@ -1,18 +1,18 @@
-# Hey 👋, I'm _𝓟𝓸𝔀𝓮𝓻 𝓛𝓮𝓮_
+# Hey 👋, I'm _Roc 𝓛𝓮𝓮_
 
 ### 博学、审问、慎思、明辨、笃行
 
-<a href="https://www.x.com/_PowerLee_">
-  <img align="left" alt="PowerLee's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.x.com/_xxRoc_">
+  <img align="left" alt="xxRoc's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/pengwang-li-8564a5378">
-  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="xxRoc's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100094803286405">
-  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="xxRoc's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://discord.com">
-  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="PowerLee's discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 
