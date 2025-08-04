@@ -53,6 +53,6 @@ Hey guys, I'm **Power🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 <!-- <code><img height="18" src="https://skillicons.dev/icons?i=仓颉"></code> -->
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xiPower&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200px"></img>
-  <img src="https://github-readme-stats.vercel.app/api?username=0xiPower&show_icons=true&&theme=radical&layout=compact" height="200px"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200px"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=xxRoc&show_icons=true&&theme=radical&layout=compact" height="200px"></img>
 </p>
