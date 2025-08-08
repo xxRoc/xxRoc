@@ -5,7 +5,7 @@
 <a href="https://www.x.com/_xxRoc_">
   <img align="left" alt="xxRoc's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/pengwang-li-8564a5378">
+<a href="www.linkedin.com/in/pengwang-li-8564a5378/">
   <img align="left" alt="xxRoc's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100094803286405">
