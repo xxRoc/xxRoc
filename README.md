@@ -52,7 +52,23 @@ Hey guys, I'm **Power🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 <code><img height="18" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <!-- <code><img height="18" src="https://skillicons.dev/icons?i=仓颉"></code> -->
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200px"></img>
-  <img src="https://github-readme-stats.vercel.app/api?username=xxRoc&show_icons=true&&theme=radical&layout=compact" height="200px"></img>
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxRoc&theme=vue-dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xxRoc&theme=vue&show_icons=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=xxRoc&theme=vue&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
